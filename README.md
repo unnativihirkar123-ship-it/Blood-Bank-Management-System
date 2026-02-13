@@ -1,19 +1,11 @@
-# Blood Bank and Donation Management System
+# Blood Bank and Donation Management System Web Interface
 
-This project is a web interface implementation based on the research paper 
-"Blood Bank and Donation Management System".
+This project implements the web interface design based on the research paper:
 
-## Project Description
-The system provides web pages for:
-- Admin Login
-- Donor Registration
-- Blood Stock Monitoring
-- Admin Dashboard
+"Blood Bank and Donation Management System"
 
-The project is developed using HTML and CSS for academic purposes.
+The system provides pages for login, donor registration, blood stock monitoring, and admin dashboard.  
+This project is developed using HTML and CSS for academic purposes.
 
-## Domain
-Healthcare Information System / Web Application
-
-## Author
-Unnati Vihirkar
+Student Name: Unnati Vihirkar  
+Domain: Healthcare Information System

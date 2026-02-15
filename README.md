@@ -7,7 +7,7 @@ This project implements the web interface design based on the research paper:
 The system provides pages for login, donor registration, blood stock monitoring, and admin dashboard.  
 This project is developed using HTML and CSS for academic purposes.
 
-Student Name: Unnati Vihirkar
+Student Name: Unnati Vihirkar.        
 Roll no : C-224 & DWP-77
 
 Domain: Healthcare Information System
@@ -25,4 +25,5 @@ Domain: Healthcare Information System
 
 ### Blood Stock Page
 ![Stock](stock.png)
+
 
